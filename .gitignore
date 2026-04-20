@@ -1,0 +1,40 @@
+
+.env
+.env.*
+includes/config.php
+centralOffice/includes/config.php
+
+/vendor/
+/node_modules/
+
+# Your project-specific folders
+centralOffice/uploads/
+centralOffice/product_image/
+
+# Generic (anywhere in project)
+uploads/
+product_image/
+
+*.log
+*.cache
+*.tmp
+*.bak
+
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+*.zip
+*.tar
+*.gz
+*.rar
+
+###################################
+# 🧪 Testing / Debug
+###################################
+phpunit.xml
+coverage/
