@@ -1,0 +1,4 @@
+[12-Mar-2026 06:30:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/itsuport123/public_html/agrosindia/centralOffice/includes/common_function.php on line 1923
+[12-Mar-2026 06:38:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/itsuport123/public_html/agrosindia/centralOffice/coupon_print.php on line 164
+[13-Mar-2026 09:21:16 UTC] PHP Fatal error:  Cannot redeclare clean() (previously declared in /home/itsuport123/public_html/agrosindia/centralOffice/includes/common_function.php:57) in /home/itsuport123/public_html/agrosindia/centralOffice/includes/common_function.php on line 57
+[20-Mar-2026 10:39:32 UTC] PHP Fatal error:  Cannot redeclare clean() (previously declared in /home/itsuport123/public_html/agrosindia/centralOffice/includes/common_function.php:57) in /home/itsuport123/public_html/agrosindia/centralOffice/includes/common_function.php on line 57
