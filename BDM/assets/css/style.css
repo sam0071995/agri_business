@@ -1,0 +1,13 @@
+.user-info small {
+    display: block;
+    padding: 9px;
+}
+.upload-mage{
+    max-height: 80px;
+    max-width: 80px;
+}
+.header-upload {
+    float: left;
+    width: 90%;
+    display: inline-block;
+}
