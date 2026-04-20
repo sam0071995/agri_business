@@ -1,0 +1,56 @@
+[15-Oct-2024 04:40:07 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/itsuport123/public_html/agrosindia/APPs/Item.php on line 9
+[15-Oct-2024 04:40:07 UTC] PHP Notice:  Undefined offset: 1 in /home/itsuport123/public_html/agrosindia/APPs/Item.php on line 10
+[18-Oct-2024 05:03:29 UTC] PHP Notice:  Undefined index: category_id in /home/itsuport123/public_html/agrosindia/APPs/api.php on line 88
+[18-Oct-2024 05:03:29 UTC] PHP Notice:  Trying to get property of non-object in /home/itsuport123/public_html/agrosindia/APPs/Item.php on line 43
+[18-Oct-2024 05:03:29 UTC] PHP Notice:  Trying to get property of non-object in /home/itsuport123/public_html/agrosindia/APPs/Item.php on line 46
+[18-Oct-2024 05:04:59 UTC] PHP Notice:  Undefined index: category_id in /home/itsuport123/public_html/agrosindia/APPs/api.php on line 88
+[18-Oct-2024 05:04:59 UTC] PHP Notice:  Trying to get property of non-object in /home/itsuport123/public_html/agrosindia/APPs/Item.php on line 43
+[18-Oct-2024 05:04:59 UTC] PHP Notice:  Trying to get property of non-object in /home/itsuport123/public_html/agrosindia/APPs/Item.php on line 46
+[18-Oct-2024 05:05:15 UTC] PHP Notice:  Undefined index: category_id in /home/itsuport123/public_html/agrosindia/APPs/api.php on line 88
+[18-Oct-2024 05:05:15 UTC] PHP Notice:  Trying to get property of non-object in /home/itsuport123/public_html/agrosindia/APPs/Item.php on line 43
+[18-Oct-2024 05:05:15 UTC] PHP Notice:  Trying to get property of non-object in /home/itsuport123/public_html/agrosindia/APPs/Item.php on line 46
+[18-Oct-2024 05:05:17 UTC] PHP Notice:  Undefined index: category_id in /home/itsuport123/public_html/agrosindia/APPs/api.php on line 88
+[18-Oct-2024 05:05:17 UTC] PHP Notice:  Trying to get property of non-object in /home/itsuport123/public_html/agrosindia/APPs/Item.php on line 43
+[18-Oct-2024 05:05:17 UTC] PHP Notice:  Trying to get property of non-object in /home/itsuport123/public_html/agrosindia/APPs/Item.php on line 46
+[18-Oct-2024 05:06:13 UTC] PHP Notice:  Trying to get property of non-object in /home/itsuport123/public_html/agrosindia/APPs/Item.php on line 43
+[18-Oct-2024 05:06:13 UTC] PHP Notice:  Trying to get property of non-object in /home/itsuport123/public_html/agrosindia/APPs/Item.php on line 46
+[18-Oct-2024 05:06:58 UTC] PHP Notice:  Trying to get property of non-object in /home/itsuport123/public_html/agrosindia/APPs/Item.php on line 43
+[18-Oct-2024 05:06:58 UTC] PHP Notice:  Trying to get property of non-object in /home/itsuport123/public_html/agrosindia/APPs/Item.php on line 46
+[18-Oct-2024 05:09:24 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, object given in /home/itsuport123/public_html/agrosindia/APPs/Item.php on line 9
+[18-Oct-2024 05:09:24 UTC] PHP Notice:  Undefined offset: 1 in /home/itsuport123/public_html/agrosindia/APPs/Item.php on line 10
+[18-Oct-2024 05:10:13 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/itsuport123/public_html/agrosindia/APPs/Item.php on line 44
+[18-Oct-2024 05:10:16 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/itsuport123/public_html/agrosindia/APPs/Item.php on line 44
+[18-Oct-2024 05:10:20 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/itsuport123/public_html/agrosindia/APPs/Item.php on line 44
+[18-Oct-2024 05:10:45 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/itsuport123/public_html/agrosindia/APPs/Item.php on line 42
+[18-Oct-2024 05:10:58 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/itsuport123/public_html/agrosindia/APPs/Item.php on line 44
+[18-Oct-2024 05:11:50 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/itsuport123/public_html/agrosindia/APPs/Item.php on line 44
+[18-Oct-2024 05:22:42 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/itsuport123/public_html/agrosindia/APPs/Item.php on line 44
+[18-Oct-2024 05:25:12 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/itsuport123/public_html/agrosindia/APPs/Item.php on line 44
+[16-Jun-2025 06:15:41 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'long FROM retailer_master WHERE STATUS='1' and id in ('15','16','17','18','19...' at line 1' in /home/itsuport123/public_html/agrosindia/APPs/api.php:73
+Stack trace:
+#0 /home/itsuport123/public_html/agrosindia/APPs/api.php(73): PDOStatement->execute()
+#1 /home/itsuport123/public_html/agrosindia/APPs/api.php(38): API->handlePost()
+#2 /home/itsuport123/public_html/agrosindia/APPs/api.php(166): API->processRequest()
+#3 {main}
+  thrown in /home/itsuport123/public_html/agrosindia/APPs/api.php on line 73
+[16-Jun-2025 06:16:29 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'long FROM retailer_master WHERE STATUS='1' and id in ('15','16','17','18','19...' at line 1' in /home/itsuport123/public_html/agrosindia/APPs/api.php:73
+Stack trace:
+#0 /home/itsuport123/public_html/agrosindia/APPs/api.php(73): PDOStatement->execute()
+#1 /home/itsuport123/public_html/agrosindia/APPs/api.php(38): API->handlePost()
+#2 /home/itsuport123/public_html/agrosindia/APPs/api.php(166): API->processRequest()
+#3 {main}
+  thrown in /home/itsuport123/public_html/agrosindia/APPs/api.php on line 73
+[16-Jun-2025 06:16:57 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'long FROM retailer_master WHERE STATUS='1' and id in ('15','16','17','18','19...' at line 1' in /home/itsuport123/public_html/agrosindia/APPs/api.php:73
+Stack trace:
+#0 /home/itsuport123/public_html/agrosindia/APPs/api.php(73): PDOStatement->execute()
+#1 /home/itsuport123/public_html/agrosindia/APPs/api.php(38): API->handlePost()
+#2 /home/itsuport123/public_html/agrosindia/APPs/api.php(166): API->processRequest()
+#3 {main}
+  thrown in /home/itsuport123/public_html/agrosindia/APPs/api.php on line 73
+[16-Jun-2025 06:16:59 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'long FROM retailer_master WHERE STATUS='1' and id in ('15','16','17','18','19...' at line 1' in /home/itsuport123/public_html/agrosindia/APPs/api.php:73
+Stack trace:
+#0 /home/itsuport123/public_html/agrosindia/APPs/api.php(73): PDOStatement->execute()
+#1 /home/itsuport123/public_html/agrosindia/APPs/api.php(38): API->handlePost()
+#2 /home/itsuport123/public_html/agrosindia/APPs/api.php(166): API->processRequest()
+#3 {main}
+  thrown in /home/itsuport123/public_html/agrosindia/APPs/api.php on line 73

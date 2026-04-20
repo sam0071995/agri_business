@@ -1,0 +1,4 @@
+RewriteEngine On    # Turn on the rewriting engine
+
+RewriteRule    ^API/?$ api.php    [NC,L] 
+RewriteRule    ^ITEM/?$ Item.php    [NC,L] 
