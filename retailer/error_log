@@ -1,0 +1,4 @@
+[20-Mar-2026 07:21:35 UTC] PHP Fatal error:  Cannot redeclare getDaybookCasInhandEntry() (previously declared in /home/itsuport123/public_html/agrosindia/centralOffice/includes/common_function.php:1759) in /home/itsuport123/public_html/agrosindia/retailer/includes/common_function.php on line 37
+[20-Mar-2026 16:10:51 Asia/Kolkata] PHP Fatal error:  Cannot redeclare getDaybookCasInhandEntry() (previously declared in /home/itsuport123/public_html/agrosindia/centralOffice/includes/common_function.php:1759) in /home/itsuport123/public_html/agrosindia/retailer/includes/common_function.php on line 37
+[23-Mar-2026 15:29:27 Asia/Kolkata] PHP Fatal error:  Call to undefined function update_sesstion() in /home/itsuport123/public_html/agrosindia/retailer/includes/session.php on line 70
+[23-Mar-2026 15:35:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/itsuport123/public_html/agrosindia/retailer/includes/common_function.php on line 389
