@@ -1,0 +1,57 @@
+<table border="1" style="border-collapse: collapse;border: 1px solid #CCC;">
+    <thead>
+        <tr>
+        <td colspan="36" style="padding: 4px;text-align: center;"><h3></h3></td>
+        </tr>
+        <tr>
+        <td colspan="36" style="padding: 4px;text-align: center;"><p>Stock Report between 01 Nov 2025 to 07 Nov 2025</p></td>
+        </tr>
+        <tr>
+            <td rowspan="2">Sr No</td>
+            <td rowspan="2">Store Name</td>
+            <td rowspan="2">Product Name</td>
+            <td rowspan="2">Category</td>
+            <td colspan="4">Opening Stock</td>
+            <td colspan="4">Inward (Purchase)</td>
+            <td colspan="4">Purchase Return</td>
+            <td colspan="4">Stock Transfer (IN)</td>
+            <td colspan="4">Stock Transfer (Out)</td>
+            <td colspan="4">Credit Note</td>
+            <td colspan="4">Outward (Sale)</td>
+            <td colspan="4">Clossing Stock</td>
+        </tr>
+        <tr> 
+            <td>Qty</td>
+            <td>GST Rate</td>
+            <td>Basic Rate</td>
+            <td>Basic Value</td>
+            <td>Qty</td>
+            <td>GST Rate</td>
+            <td>Basic Rate</td>
+            <td>Basic Value</td>
+            <td>Qty</td>
+            <td>GST Rate</td>
+            <td>Basic Rate</td>
+            <td>Basic Value</td>
+            <td>Qty</td>
+            <td>GST Rate</td>
+            <td>Basic Rate</td>
+            <td>Basic Value</td>
+            <td>Qty</td>
+            <td>GST Rate</td>
+            <td>Basic Rate</td>
+            <td>Basic Value</td>
+            <td>Qty</td>
+            <td>GST Rate</td>
+            <td>Basic Rate</td>
+            <td>Basic Value</td>
+            <td>Qty</td>
+            <td>GST Rate</td>
+            <td>Basic Rate</td>
+            <td>Basic Value</td>
+            <td>Qty</td>
+            <td>GST Rate</td>
+            <td>Basic Rate</td>
+            <td>Basic Value</td>
+        </tr>
+    </thead><tbody><tr><td>1</td><td>AKBARPUR ( SITAPUR )</td><td>AD-FYRE 70% WG 2 GM</td><td>CPC (CROP PROTECTION CHEMICALS)</td><td>47.00</td><td>18.00</td><td>10.25</td><td>481.75</td><td>0.00</td><td>18.00</td><td>10.25</td><td>0.00</td><td>0.00</td><td>18.00</td><td>10.25</td><td>0.00</td><td>0.00</td><td>18.00</td><td>10.25</td><td>0.00</td><td>0.00</td><td>18.00</td><td>10.25</td><td>0.00</td><td>0.00</td><td>18.00</td><td>10.25</td><td>0.00</td><td>1.00</td><td>18.00</td><td>16.95</td><td>16.95</td><td>46.00</td><td>18.00</td><td>10.25</td><td>471.50</td></tr></tbody></table>
